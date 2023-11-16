@@ -1,0 +1,195 @@
+ body{
+  overflow-x: hidden;
+ }.carousel-caption {
+    transform: translateY(-200px);
+ }.carousel-indicators [data-bs-target] {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+ }
+
+ 
+
+  .over {
+    background-image: url();
+
+  }
+
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+
+  }
+
+  .main6 {
+    background-color: rgb(237, 235, 235);
+
+  }
+
+  .win {
+    display: flex;
+
+  }
+
+  .win img {
+    padding: 10px;
+    margin: 27px;
+  }
+
+  .in {
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 100%;
+    transform: translateY(50px);
+    transform: translate(44px, 63px);
+    position: relative;
+  }
+
+  .bb {
+    transform: translate(7px, -66px);
+
+  }
+
+  .mt2 {
+    transform: translateX(120px);
+
+  }
+
+  .in::after {
+    content: "";
+    top: 20px;
+    bottom: 0;
+    width: 50px;
+    background-color: gray;
+    height: 1px;
+    left: 64px;
+    right: 0;
+    position: absolute;
+
+  }
+
+  .in::before {
+    content: "";
+    top: 20px;
+    bottom: 0;
+    width: 50px;
+    background-color: gray;
+    height: 1px;
+    left: -67px;
+    right: 0px;
+    position: absolute;
+
+  }
+
+  .our-events {
+    background-color: rgb(251, 246, 246);
+
+  }
+
+  .btext {
+    border-top: 5px solid aqua;
+    margin-left: 134px;
+    margin-right: 151px;
+
+  }
+
+  .bimg img {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+
+  }
+
+ 
+  
+  
+ 
+
+  
+  .footer {
+    background-color: black;
+  }
+
+  .ballimg img {
+    width: 600px;
+    transform: translateY(-48px);
+    position: absolute;
+  }
+
+  ll .link ul a {
+    text-decoration: none;
+    color: white;
+
+  }
+
+  .link {
+    line-height: 40px;
+    text-decoration: none;
+    color: white;
+  }
+
+  .card img {
+    transition: all ease 1s;
+  }
+
+  .card:hover img {
+    scale: 0.9;
+  }
+
+  .g img {
+    transition: all ease 1s;
+  }
+
+  .g:hover img {
+    scale: 0.9;
+  }
+
+  .g2 img {
+    transition: all ease 1s;
+  }
+
+  .g2:hover img {
+    scale: 0.9;
+  }
+  .navbar-nav{
+    font-size: 16px;
+  
+  
+  } 
+  .navbar-nav:active{
+    color: rgb(9, 214, 98);
+  }
+  @media only screen and (max-width:992px){
+    .up{
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .image{
+      margin-bottom: 30px;
+    }
+    .part1{
+      padding: 60px 0;
+    }
+    .num{
+      text-align: center;
+    }
+    .our-events,.great{
+      margin-bottom: 40px; 
+    padding-bottom: 39px;       }
+   /* .footer ,.ab{
+      text-align: center;
+    }
+   .gellary{
+    text-align: center;
+  
+   }
+   .blogfoot{
+    text-align: center;
+   }*/
+    .over-events{
+      text-align: center;
+    
+    }
+    
+  }
+ 
