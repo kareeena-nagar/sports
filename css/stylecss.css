@@ -176,6 +176,11 @@
     .our-events,.great{
       margin-bottom: 40px; 
     padding-bottom: 39px;       }
+    .mt2 {
+    transform: translateX(60px);
+
+  }.in{    transform: translate(23px, 60px);}
+
    /* .footer ,.ab{
       text-align: center;
     }
