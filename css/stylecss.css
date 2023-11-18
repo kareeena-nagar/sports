@@ -159,7 +159,7 @@
   .navbar-nav:active{
     color: rgb(9, 214, 98);
   }
-  @media only screen and (max-width:992px){
+  @media only screen and (max-width:500px){
     .up{
       text-align: center;
       margin-bottom: 20px;
