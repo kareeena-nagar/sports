@@ -12,7 +12,7 @@
 
   .over {
     background-image: url(https://github.com/kareeena-nagar/sports/blob/main/images%20sports/images/counter_bg.jpg?raw=true);
-
+background-size: cover;
   }
 
   .overlay {
@@ -159,7 +159,7 @@
   .navbar-nav:active{
     color: rgb(9, 214, 98);
   }
-  @media only screen and (max-width:500px){
+  @media only screen and (max-width:450px){
     .up{
       text-align: center;
       margin-bottom: 20px;
