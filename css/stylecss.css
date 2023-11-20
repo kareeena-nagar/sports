@@ -195,6 +195,12 @@ background-size: cover;
       text-align: center;
     
     }
+element.style {
+}
+.navbar-toggler-icon {
+ background-color:white;
+color:black;
+}
     .image{width:400px;
   }
    .image img{ height:280px; 
