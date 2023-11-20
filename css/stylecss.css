@@ -197,6 +197,8 @@ background-size: cover;
     }
     .image{width:400px;
   }
+   .image img{ height:280px;}
+   .win img{width:58px;}
  .email-box{
   width:300px;}
 .owl-carousel{margin-left:50px;}
