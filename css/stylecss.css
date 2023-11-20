@@ -201,8 +201,10 @@ background-size: cover;
              }
    .img2 img{
     height:260px;
-    padding-right:200px;}
-   .win img{width:58px;}
+    padding-right:200px;
+   }
+   .win img{width:58px;
+           }
  .email-box{
-  width:300px;}
+  width:250px;}
 .owl-carousel{margin-left:50px;}
