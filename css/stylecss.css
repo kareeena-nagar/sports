@@ -159,6 +159,8 @@ background-size: cover;
   .navbar-nav:active{
     color: rgb(9, 214, 98);
   }
+.email-box{
+ width:400px;}
   @media only screen and (max-width:450px){
     .up{
       text-align: center;
